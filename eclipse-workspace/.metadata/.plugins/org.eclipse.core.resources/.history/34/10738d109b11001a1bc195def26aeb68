@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class AgeInfo {
+	public static void main( String [] args) {
+		
+		Scanner s= new Scanner( System.in);
+		
+		System.out.print("Hello. What is your name?");
+		String name = s.next();
+		System.out.println("Hi," + name + "!  How old are you?");
+	}
+
+}

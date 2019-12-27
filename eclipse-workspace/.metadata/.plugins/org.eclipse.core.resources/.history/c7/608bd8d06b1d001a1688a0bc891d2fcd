@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class GenerateOTP {
+public static void main(String[] args) {
+	Scanner s= new Scanner(System.in);
+	System.out.println("please enter your OTP");
+	int correct_otp= 1234;	
+	//int otp = s.nextInt();
+	int trial = 0;
+	while (otp!= correct_otp && trial==2)
+	{
+		System.out.println("Incorrect OTP, Please enter correct OTP" );
+		otp = s.nextInt();
+		trial ++;
+	}
+		System.out.println("Do you want to genearte new OTP?");
+		
+		String new_otp = "yes";
+//		if (new_otp)
+//		{
+//
+//		}
+
+	
+}
+}

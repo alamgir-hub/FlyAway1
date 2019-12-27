@@ -1,0 +1,18 @@
+
+public class ObjectTypeConversion {
+	
+	public static void main(String[] args)
+	{
+		// converting a primitive to object type
+		int number = 100;
+		Integer obj = Integer.valueOf(number);
+		System.out.println(number + "  " + obj);
+		
+		//converting an object type to primitive
+		Integer obj2 = new Integer(100);
+		int num = obj2.intValue();
+		System.out.println(num + " " + obj2);
+		
+	}
+
+}

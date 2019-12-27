@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1571297773000" transient="false" shared_ur="file:configuration/org.eclipse.update/platform.xml" version="3.0">
+	<site updateable="true" url="file:/home/ubuntu/.eclipse/org.eclipse.platform_4.9.0_1473617060_linux_gtk_x86_64/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.springframework.tooling.boot.ls.feature" version="4.1.0.201812201040" url="features/org.springframework.tooling.boot.ls.feature_4.1.0.201812201040/">
+		</feature>
+		<feature id="org.springsource.ide.eclipse.commons.quicksearch.feature" version="3.9.7.201812200835-RELEASE" url="features/org.springsource.ide.eclipse.commons.quicksearch.feature_3.9.7.201812200835-RELEASE/">
+		</feature>
+		<feature id="org.springframework.ide.eclipse.boot.dash.feature" version="3.9.7.201812201020-RELEASE" url="features/org.springframework.ide.eclipse.boot.dash.feature_3.9.7.201812201020-RELEASE/" plugin-identifier="org.springframework.ide.eclipse">
+		</feature>
+		<feature id="org.testng.eclipse" version="7.0.0.201908240652" url="features/org.testng.eclipse_7.0.0.201908240652/">
+		</feature>
+		<feature id="org.springframework.tooling.bosh.ls.feature" version="4.1.0.201812201040" url="features/org.springframework.tooling.bosh.ls.feature_4.1.0.201812201040/">
+		</feature>
+		<feature id="org.springframework.tooling.concourse.ls.feature" version="4.1.0.201812201040" url="features/org.springframework.tooling.concourse.ls.feature_4.1.0.201812201040/">
+		</feature>
+		<feature id="cucumber.eclipse.feature" version="1.0.0" url="features/cucumber.eclipse.feature_1.0.0/">
+		</feature>
+		<feature id="org.springframework.boot.ide.main.feature" version="4.1.0.201812201347-RELEASE" url="features/org.springframework.boot.ide.main.feature_4.1.0.201812201347-RELEASE/">
+		</feature>
+		<feature id="org.testng.p2.feature" version="7.0.0.r201908191551" url="features/org.testng.p2.feature_7.0.0.r201908191551/">
+		</feature>
+		<feature id="org.testng.eclipse.maven.feature" version="7.0.0.201908240652" url="features/org.testng.eclipse.maven.feature_7.0.0.201908240652/">
+		</feature>
+		<feature id="org.springframework.tooling.cloudfoundry.manifest.ls.feature" version="4.1.0.201812201040" url="features/org.springframework.tooling.cloudfoundry.manifest.ls.feature_4.1.0.201812201040/">
+		</feature>
+		<feature id="me.karthy.plugin.java.orm.feature" version="1.0.0.201411180016" url="features/me.karthy.plugin.java.orm.feature_1.0.0.201411180016/">
+		</feature>
+		<feature id="org.springframework.tooling.cloudfoundry.manifest.ls.integration.feature" version="4.1.0.201812201040" url="features/org.springframework.tooling.cloudfoundry.manifest.ls.integration.feature_4.1.0.201812201040/">
+		</feature>
+	</site>
+</config>

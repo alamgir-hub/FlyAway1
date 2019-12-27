@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class UserInfo {
+	
+public static void main ( String [] args) {
+	
+	Scanner s = new Scanner(System.in);
+	
+	System.out.print("What is your First Name:");
+	String fname = s.next();
+	System.out.print("What is yourLast Name:");
+	String lname = s.next();
+	System.out.print("Choose your Grade from ( 9- 12 ):");
+	int grade = s.nextInt();
+	System.out.print("Student ID:");
+	long sid = s.nextLong();
+	System.out.print("What is your Login Name:");
+	String login_name = s.next();
+	System.out.print(":");
+	String fname = s.next();
+	
+	System.out.println("Hi "+lname);
+	
+}
+}

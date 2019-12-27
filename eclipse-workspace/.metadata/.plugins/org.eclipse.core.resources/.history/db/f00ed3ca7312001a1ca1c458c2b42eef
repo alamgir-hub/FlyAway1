@@ -1,0 +1,11 @@
+
+public class ObjectTypeConversion {
+	
+	public static void main(String[] args)
+	{
+		int number = 100;
+		Integer obj = Integer.valueOf(number);
+		System.out.println(number + "  " + obj);
+	}
+
+}

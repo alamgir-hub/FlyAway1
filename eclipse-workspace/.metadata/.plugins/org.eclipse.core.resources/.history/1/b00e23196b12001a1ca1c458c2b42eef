@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class ExUserInfo {
+	
+	public static void main( String [] args)
+	{
+		Scanner s = new Scanner(System.in);
+		
+		System.out.print("What is your age:");
+		int age = s.nextInt();
+		
+		System.out.print("What is Salary:");
+		float salary = s.nextFloat();
+		
+		System.out.print("your Account ID:");
+		byte acc = s.nextByte();
+		
+		
+		System.out.print("Account Balance:");
+		double bal = s.nextDouble();
+		
+		 int total = age + (int)salary + (int)acc + (int)bal;		 
+		 System.out.println(" combined value :"+  total);
+		 
+		byte sub = (byte)(bal -salary);
+		
+		int mul = age*(int)salary*(int)acc*(int)bal;
+		System.out.println("Multiple of everthing into integer:" + mul);
+		
+		byte div = (byte)(bal/acc);
+		System.out.println("Division of balance and account" + div);
+			
+				
+	}
+	
+
+}

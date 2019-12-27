@@ -1,0 +1,24 @@
+
+public class GasolineReceipt {
+	
+	public static void main( String[] args) {
+		String d="2019-11-24 7:17AM";
+		 float a= 10.870f;
+		 double total= 22.71d;
+		 float gallon = 2.089f;
+		
+		System.out.println("+---------------------------------+");
+		System.out.println("|                                 |");
+		System.out.println("|          CORNER STORE           |");
+		System.out.println("|                                 |");
+		System.out.println("| Date is: " + d +		 "|"   );
+		System.out.println("|                                 |");
+		System.out.println("| Gallons: " +   a +		"|"  );
+		System.out.println("|                                 |");
+		System.out.println("| Price/Gallon " + gallon  +    "|");
+		System.out.println("|                                 |");
+		System.out.println("| Fuel total " + total +        "|");
+		System.out.println("|                                 |");
+		System.out.println("+---------------------------------+");	
+	}
+}

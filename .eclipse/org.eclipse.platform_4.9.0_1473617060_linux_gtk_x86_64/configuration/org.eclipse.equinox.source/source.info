@@ -1,0 +1,6 @@
+#encoding=UTF-8
+#version=1
+com.beust.jcommander.source,1.72.0,../../home/ubuntu/.eclipse/org.eclipse.platform_4.9.0_1473617060_linux_gtk_x86_64/plugins/com.beust.jcommander.source_1.72.0.jar,-1,false
+org.apache-extras.beanshell.bsh.source,2.0.0.b6,../../home/ubuntu/.eclipse/org.eclipse.platform_4.9.0_1473617060_linux_gtk_x86_64/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar,-1,false
+org.testng.source,7.0.0.r201908191551,../../home/ubuntu/.eclipse/org.eclipse.platform_4.9.0_1473617060_linux_gtk_x86_64/plugins/org.testng.source_7.0.0.r201908191551.jar,-1,false
+org.yaml.snakeyaml.source,1.21.0,../../home/ubuntu/.eclipse/org.eclipse.platform_4.9.0_1473617060_linux_gtk_x86_64/plugins/org.yaml.snakeyaml.source_1.21.0.jar,-1,false

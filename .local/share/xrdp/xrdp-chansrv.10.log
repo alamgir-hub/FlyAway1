@@ -1,0 +1,8 @@
+[20191213-10:09:03] [CORE ] main: app started pid 2653(0x00000a5d)
+[20191213-10:09:03] [INFO ] main: DISPLAY env var set to :10.0
+[20191213-10:09:03] [INFO ] main: using DISPLAY 10
+[20191213-10:09:03] [INFO ] channel_thread_loop: thread start
+[20191213-10:09:04] [INFO ] Socket 12: AF_UNIX connection received
+[20191213-10:09:04] [INFO ] send_init_response_message:
+[20191213-10:09:41] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1576231771639:2078826261
+[20191213-10:09:41] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1576231771639:2078826261
